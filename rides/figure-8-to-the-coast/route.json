@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "01-R HW210", "Description": "<!DOCTYPE html><html><head><\/head><body><script type=\"text\/javascript\">window.location.href=\"http:\/\/maps.google.com\/maps\/place?latlng=45456261,-122782973,5428405855993949121&hl=en&gl=us&ui=earth&view=teaser\";<\/script><\/body><\/html>" }, "geometry": { "type": "Point", "coordinates": [ -122.782973, 45.456261, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "02-R HW219", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -122.930305, 45.399558, 0.000000 ] } }
+
+]
+}
