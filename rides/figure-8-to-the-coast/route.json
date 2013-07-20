@@ -5,7 +5,81 @@
 ,
 { "type": "Feature", "properties": { "Name": "02-R HW219", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -122.930305, 45.399558, 0.000000 ] } }
 ,
-{ "type": "Feature", "properties": { "Name": "Route", "Description": "" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.782786, 45.456265 ], [ -122.788707, 45.450437 ], [ -122.788490, 45.450540 ], [ -122.787765, 45.451006 ], [ -122.787376, 45.451259 ], [ -122.787027, 45.451478 ], [ -122.786666, 45.451624 ], [ -122.786437, 45.451696 ], [ -122.786207, 45.451767 ], [ -122.785790, 45.451875 ], [ -122.785380, 45.452062 ], [ -122.784823, 45.452250 ], [ -122.784403, 45.452394 ], [ -122.784075, 45.452560 ], [ -122.783795, 45.452705 ], [ -122.783564, 45.452864 ], [ -122.783378, 45.452987 ], [ -122.783140, 45.453097 ], [ -122.782708, 45.453175 ], [ -122.782417, 45.453175 ], [ -122.782271, 45.453175 ], [ -122.782077, 45.453175 ], [ -122.781738, 45.453175 ], [ -122.781496, 45.453175 ], [ -122.781059, 45.453175 ], [ -122.780865, 45.453175 ], [ -122.780575, 45.453175 ], [ -122.780236, 45.453100 ], [ -122.780043, 45.452987 ] ] } }
+{ "type": "Feature", "properties": { "Name": "03-L Laurel Road", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -122.960759, 45.418563, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "04-C Bald Peak Road", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.026768, 45.419210, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "05-R Laurelwood Dr", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.051854, 45.418325, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "06-R Spring Hill Rd", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.105075, 45.420123, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "07-L Gaston", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.122521, 45.440399, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "08-R HW47", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.139788, 45.437262, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "09-L B Street", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.115460, 45.502596, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "10-L Stringtown Road", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.115941, 45.504519, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "11-L HW8", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.168477, 45.541309, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "12-L HW6", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.243547, 45.611942, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "13-R Timber Road", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.274732, 45.650075, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "14-L HW47", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.215695, 45.840904, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "15-R Apiary Road", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.161961, 45.944764, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "16-L Old Rainier Road", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.013235, 46.091644, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "17-L HW30", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.042443, 46.097546, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "18-R Westport Ferry", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.376070, 46.131965, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "19-Take the Ferry!", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.378044, 46.136824, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "20-C HW409", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.377072, 46.155101, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "21-L HW4", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.382187, 46.204638, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "22-C HW101", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.857330, 46.429291, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "23-L Peninsula Rd", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -124.044328, 46.331250, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "24-L HW101", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -124.044765, 46.318310, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "25-L HW101", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -124.043384, 46.308985, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "26-CL HW101", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -124.034376, 46.308826, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "27-R Astoria Bridge", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.875365, 46.241080, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "28-L HW30", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.852830, 46.187799, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "29-R 15th", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.827349, 46.189051, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "30-L Coxcomb Dr", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.826489, 46.182204, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "31-BREAK", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.816947, 46.181484, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "32-L 15th St", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.826361, 46.182169, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "33-L Niagara Ave", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.826380, 46.181252, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "34-R Williamsport Rd", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.824865, 46.180275, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "35-L HW202", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.815400, 46.171376, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "36-L HW47", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.257603, 45.997182, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "37-R HW30", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.206822, 46.106542, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "38-R Cornelius Road", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -122.851800, 45.651764, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "39-L Kaiser Rd", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -122.867108, 45.595525, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "40-L HW26", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -122.842555, 45.532003, 0.000000 ] } }
 
 ]
 }
