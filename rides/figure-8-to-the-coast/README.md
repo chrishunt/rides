@@ -1,7 +1,7 @@
 # Figure 8 to the Coast
 
-Miles: 287
-Duration: 7.5 hours total (6 hours drive time)
+- **Miles:** 287
+- **Duration:** 7.5 hours (6 hours drive time)
 
 This ride will take you into the Coastal Range, Tillamook and Clatsop State
 Forests and it will take you near a number of Wildlife Refuge areas and Elk
