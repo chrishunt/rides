@@ -15,3 +15,5 @@ If Hwy 202 were smoother, it would be as good as it gets with countless
 repetitive turns and forced rhythm leaning from side to side, but it's
 interrupted by the rough road. Enjoy it at a slower speed. It's a Top 20 Twisty
 Road.
+
+[![](route.png)](route.json)
